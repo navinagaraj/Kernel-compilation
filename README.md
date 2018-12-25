@@ -1,2 +1,0 @@
-# Kernel-compilation
-kernel compilation
