@@ -16,6 +16,7 @@ STEP 11: make menuconfig
 STEP 12: make -j(core)                      //LIKE 2 OR 4 OR 6 OR 8
 STEP 13: sudo make modules
 STEP 14: sudo make install
-STEP 15: sudo modules_install
+STEP 15: sudo modules_install    // sudo make modules_install
+         sudo make install
 STEP 16: update-grub
 STEP 17: reboot
